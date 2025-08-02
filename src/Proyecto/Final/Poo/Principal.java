@@ -5,6 +5,8 @@ import java.util.Scanner; // Importa la clase Scanner para entrada de datos
 public class Principal { // Define la clase MineSweeper
 	
 	//vamos a empezar
+	
+	//este es un ejemplo
 
     
     int[][] fieldHidden = new int[10][10]; // Matriz que guarda:  minas y números del campo oculto
